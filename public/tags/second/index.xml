@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Terminal</title>
-    <link>/tags/blog/</link>
-    <description>Recent content in Blog on Terminal</description>
+    <title>Second on Terminal</title>
+    <link>/tags/second/</link>
+    <description>Recent content in Second on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>my title</title>
-      <link>/posts/hello-guys/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hello-guys/</guid>
-      <description>&lt;p&gt;i am pranaav kumar
-and here is where i am starting to write my new blog post journey&lt;/p&gt;</description>
-      <content>&lt;p&gt;i am pranaav kumar
-and here is where i am starting to write my new blog post journey&lt;/p&gt;
-</content>
-    </item>
-    
+    <language>en</language><atom:link href="/tags/second/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>officially local</title>
       <link>/posts/another-one/</link>
