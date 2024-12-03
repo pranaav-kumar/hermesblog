@@ -12,8 +12,32 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/hello-guys/</guid>
-      <description>&lt;p&gt;i am pranaav kumar&lt;/p&gt;</description>
-      <content>&lt;p&gt;i am pranaav kumar&lt;/p&gt;
+      <description>&lt;p&gt;i am pranaav kumar
+and here is where i am starting to write my new blog post journey&lt;/p&gt;</description>
+      <content>&lt;p&gt;i am pranaav kumar
+and here is where i am starting to write my new blog post journey&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>officially local</title>
+      <link>/posts/another-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/another-one/</guid>
+      <description>&lt;p&gt;this is going to be my second blog post which is just for showing off not for any other thing so dont mistake this for an actual blog post&lt;/p&gt;</description>
+      <content>&lt;p&gt;this is going to be my second blog post which is just for showing off not for any other thing so dont mistake this for an actual blog post&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>work nig</title>
+      <link>/posts/why-not-another/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/why-not-another/</guid>
+      <description>&lt;p&gt;i dont know how this is gonns turn out&lt;/p&gt;</description>
+      <content>&lt;p&gt;i dont know how this is gonns turn out&lt;/p&gt;
 </content>
     </item>
     
