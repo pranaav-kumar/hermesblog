@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>/posts/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/untitled/</guid>
+      <description>&lt;p&gt;ok bro&lt;/p&gt;</description>
+      <content>&lt;p&gt;ok bro&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>my title</title>
       <link>/posts/hello-guys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,8 +47,10 @@ and here is where i am starting to write my new blog post journey&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/why-not-another/</guid>
-      <description>&lt;p&gt;i dont know how this is gonns turn out&lt;/p&gt;</description>
-      <content>&lt;p&gt;i dont know how this is gonns turn out&lt;/p&gt;
+      <description>&lt;p&gt;i dont know how this is gonns turn out
+hello guys&lt;/p&gt;</description>
+      <content>&lt;p&gt;i dont know how this is gonns turn out
+hello guys&lt;/p&gt;
 </content>
     </item>
     
